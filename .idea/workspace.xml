@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b33ae65d-eafb-4d8a-968c-e77b0dd8ba5b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.github/workflows/allure-report.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browsers.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/allure.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tl/todouiproject/MainPageBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tl/todouiproject/MainPageTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AleksanderQA/to-do-ui-project",
+    "accountId": "a48135c8-5934-449e-b581-7f26a03bc2bb"
+  }
+}]]></component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2f5CF6YP6pcSK3XfpcfeyJjemNv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.MainPageTest.createFewTasksAndMarkOneOfThemAsCompleted.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MainPageTest.createOneTask.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MainPageTest.createSeveralTasks.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MainPageTest.createTask.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MainPageTest.deleteTask.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MainPageTest.markOneOfTheTasksAsCompletedAndClearAsCompleted.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.to-do-ui-project [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.to-do-ui-project [io.qameta.allure:allure-maven:2.12.0:serve].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.to-do-ui-project [test].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.MainPageTest.markOneOfTheTasksAsCompletedAndClearAsCompleted">
+    <configuration name="MainPageTest.createFewTasksAndMarkOneOfThemAsCompleted" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="to-do-ui-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tl.todouiproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tl.todouiproject" />
+      <option name="MAIN_CLASS_NAME" value="tl.todouiproject.MainPageTest" />
+      <option name="METHOD_NAME" value="createFewTasksAndMarkOneOfThemAsCompleted" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainPageTest.createOneTask" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="to-do-ui-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tl.todouiproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tl.todouiproject" />
+      <option name="MAIN_CLASS_NAME" value="tl.todouiproject.MainPageTest" />
+      <option name="METHOD_NAME" value="createOneTask" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainPageTest.createTask" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="to-do-ui-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tl.todouiproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tl.todouiproject" />
+      <option name="MAIN_CLASS_NAME" value="tl.todouiproject.MainPageTest" />
+      <option name="METHOD_NAME" value="createTask" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainPageTest.deleteTask" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="to-do-ui-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tl.todouiproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tl.todouiproject" />
+      <option name="MAIN_CLASS_NAME" value="tl.todouiproject.MainPageTest" />
+      <option name="METHOD_NAME" value="deleteTask" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainPageTest.markOneOfTheTasksAsCompletedAndClearAsCompleted" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="to-do-ui-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tl.todouiproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tl.todouiproject" />
+      <option name="MAIN_CLASS_NAME" value="tl.todouiproject.MainPageTest" />
+      <option name="METHOD_NAME" value="markOneOfTheTasksAsCompletedAndClearAsCompleted" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MainPageTest.markOneOfTheTasksAsCompletedAndClearAsCompleted" />
+        <item itemvalue="JUnit.MainPageTest.createFewTasksAndMarkOneOfThemAsCompleted" />
+        <item itemvalue="JUnit.MainPageTest.deleteTask" />
+        <item itemvalue="JUnit.MainPageTest.createTask" />
+        <item itemvalue="JUnit.MainPageTest.createOneTask" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b33ae65d-eafb-4d8a-968c-e77b0dd8ba5b" name="Changes" comment="" />
+      <created>1713081444338</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713081444338</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
