@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b33ae65d-eafb-4d8a-968c-e77b0dd8ba5b" name="Changes" comment="Commit HW-21&#10;Created UI tests and allure-report.yml">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/allure-report.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/allure-report.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b33ae65d-eafb-4d8a-968c-e77b0dd8ba5b" name="Changes" comment="Commit HW-21&#10;Created UI tests and allure-report.yml" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,25 +41,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;JUnit.MainPageTest.createFewTasksAndMarkOneOfThemAsCompleted.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.MainPageTest.createOneTask.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.MainPageTest.createSeveralTasks.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.MainPageTest.createTask.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.MainPageTest.deleteTask.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.MainPageTest.markOneOfTheTasksAsCompletedAndClearAsCompleted.executor&quot;: &quot;Run&quot;,
-    &quot;Maven.to-do-ui-project [clean].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.to-do-ui-project [io.qameta.allure:allure-maven:2.12.0:serve].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.to-do-ui-project [test].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.MainPageTest.createFewTasksAndMarkOneOfThemAsCompleted.executor": "Run",
+    "JUnit.MainPageTest.createOneTask.executor": "Run",
+    "JUnit.MainPageTest.createSeveralTasks.executor": "Run",
+    "JUnit.MainPageTest.createTask.executor": "Run",
+    "JUnit.MainPageTest.createTaskAndClearThemAsCompleted.executor": "Run",
+    "JUnit.MainPageTest.deleteTask.executor": "Run",
+    "JUnit.MainPageTest.markOneOfTheTasksAsCompletedAndClearAsCompleted.executor": "Run",
+    "Maven.to-do-ui-project [clean].executor": "Run",
+    "Maven.to-do-ui-project [io.qameta.allure:allure-maven:2.12.0:serve].executor": "Run",
+    "Maven.to-do-ui-project [test].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="JUnit.MainPageTest.createTaskAndClearThemAsCompleted">
     <configuration name="MainPageTest.createFewTasksAndMarkOneOfThemAsCompleted" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="to-do-ui-project" />
@@ -172,7 +169,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713211493337</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit HW-21&#10;Created UI tests and allure-report.yml">
+      <option name="closed" value="true" />
+      <created>1713280846760</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713280846760</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
