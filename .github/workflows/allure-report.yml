@@ -22,20 +22,12 @@ jobs:
           distribution: 'zulu'
 
       - name: Run Test
-        run: ./mvnw verify
+        run: ./mvnw clean test
         continue-on-error: true
-
-      - name: Setup Allure History
-        uses: actions/checkout@v4.1.1
-        if: always()
-        continue-on-error: true
-        with:
-          ref: gh-pages
-          path: gh-pages
 
       - name: Generate Allure Report
+        if: success()
         uses: simple-elf/allure-report-action@v1.9
-        if: always()
         with:
           allure_results: target/allure-results
           allure_history: allure-history
@@ -45,5 +37,5 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3.9.3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: gh-pages
+          publish_branch: main
           publish_dir: allure-history

@@ -177,7 +177,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713280846760</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Commit HW-21&#10;Created UI tests and allure-report.yml">
+      <option name="closed" value="true" />
+      <created>1713280947671</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713280947671</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
